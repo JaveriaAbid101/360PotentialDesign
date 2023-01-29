@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119.667" height="24" viewBox="0 0 119.667 24">
+  <g id="Group_368" data-name="Group 368" transform="translate(-60.667 -204)">
+    <g id="Group_357" data-name="Group 357" transform="translate(60.667 204)">
+      <path id="Path_54" data-name="Path 54" d="M1144.793,442.833h111.54v24h-111.54l-8.126-11.793Z" transform="translate(-1136.667 -442.833)" fill="#ffc509"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="3.228" cy="3.228" r="3.228" transform="translate(8.844 11.777) rotate(-45)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="95.167" height="20" rx="1" transform="translate(83 206)" fill="#fff"/>
+    <text id="Opioid_Misuse" data-name="Opioid Misuse" transform="translate(92 220)" fill="#464646" font-size="11" font-family="Open Sans" font-weight="600"><tspan x="0" y="0">Opioid Misuse</tspan></text>
+  </g>
+</svg>
